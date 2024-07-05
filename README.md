@@ -1,4 +1,4 @@
-<h2> Hi, I'm Darya! <img src="https://giphy.com/embed/S5h4gvxxc1qlG/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Darya! <img src="https://giphy.com/embed/S5h4gvxxc1qlG" width="50"></h2>
 
 ### Skills
 
