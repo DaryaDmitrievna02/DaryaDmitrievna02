@@ -1,4 +1,4 @@
-Hi 👋 My name is Darya
+<h2> Hi, I'm Darya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ======================
 
 ### Skills
