@@ -10,7 +10,7 @@
 
 ### Socials ✉
 
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199096061434/)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="3.5%"/>](https://t.me/Dadashka_K.)  &nbsp; <a href="mailto:d.kolodinskaya02@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="36" height="36"/>](https://steamcommunity.com/profiles/76561199096061434/)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="36" height="36"/>](https://t.me/Dadashka_K)  &nbsp; <a href="mailto:d.kolodinskaya02@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
 
 ### Codewars stats 💪
 
