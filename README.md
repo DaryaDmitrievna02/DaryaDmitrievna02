@@ -1,4 +1,4 @@
-<h2> Hi, I'm Darya! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5bWo3bmhvemIwdzVyYnAzZHAycW9lYjltNDdtZXl0a2t6dnk1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g01FakEbcUua6yM34a/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Darya! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5bWo3bmhvemIwdzVyYnAzZHAycW9lYjltNDdtZXl0a2t6dnk1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g01FakEbcUua6yM34a/giphy.gif" width="100"></h2>
 
 ### Skills
 
