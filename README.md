@@ -1,5 +1,5 @@
 <div style="display:flex">
-<h2> Hi, welcome to my profile <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5bWo3bmhvemIwdzVyYnAzZHAycW9lYjltNDdtZXl0a2t6dnk1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g01FakEbcUua6yM34a/giphy.gif" width="100"></h2></div>
+<h2> Hello there<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5bWo3bmhvemIwdzVyYnAzZHAycW9lYjltNDdtZXl0a2t6dnk1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g01FakEbcUua6yM34a/giphy.gif" width="100"></h2></div>
 
 
 ### Skills 📚
@@ -10,7 +10,7 @@
 
 ### Socials ✉
 
-<p align="left"> <a href="https://www.github.com/DaryaDmitrievna02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199096061434/)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="3.5%"/>](https://t.me/Dadashka_K.)  &nbsp; <a href="mailto:d.kolodinskaya02@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ### Codewars stats 💪
 
