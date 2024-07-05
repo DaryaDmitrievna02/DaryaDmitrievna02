@@ -22,4 +22,6 @@
 
 ### Badges 🥇
 
-<a href="https://github.com/DaryaDmitrievna02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaDmitrievna02&langs_count=10&title_color=FFD300&text_color=F7E948&icon_color=0891b2&bg_color=1C1A2B&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/DaryaDmitrievna02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaDmitrievna02&langs_count=10&title_color=FFD300&text_color=F7E948&icon_color=0891b2&bg_color=1C1A2B&hide_border=false&border_color=FFD300&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/DaryaDmitrievna02"><img src="https://github-readme-stats.vercel.app/api?username=DaryaDmitrievna02&show_icons=true&hide=&count_private=true&title_color=FFD300&text_color=F7E948&icon_color=F7E948f&bg_color=1C1A2B&hide_border=false&border_color=FFD300&show_icons=true" alt="DaryaDmitrievna02's GitHub stats" /></a>
